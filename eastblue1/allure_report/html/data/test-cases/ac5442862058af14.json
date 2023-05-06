@@ -1,0 +1,621 @@
+{
+  "uid" : "ac5442862058af14",
+  "name" : "test_common_data_source",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_common_data_source",
+  "historyId" : "9cccef91270560a4c4452a532ad1e97c",
+  "time" : {
+    "start" : 1683270993249,
+    "stop" : 1683270994258,
+    "duration" : 1009
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 64,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d8658c78d4e6e15",
+      "name" : "login",
+      "source" : "d8658c78d4e6e15.txt",
+      "type" : "text/plain",
+      "size" : 1877
+    }, {
+      "uid" : "5e50164ea7d7756b",
+      "name" : "[api-path]/web-api/common/get-common-data-source ",
+      "source" : "5e50164ea7d7756b.txt",
+      "type" : "text/plain",
+      "size" : 29625
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "4303-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffea7cb359df0381",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683269318727,
+        "stop" : 1683269319611,
+        "duration" : 884
+      }
+    }, {
+      "uid" : "e4860f0e58de1b57",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683269119280,
+        "stop" : 1683269120132,
+        "duration" : 852
+      }
+    }, {
+      "uid" : "959053832248a597",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683269093736,
+        "stop" : 1683269094642,
+        "duration" : 906
+      }
+    }, {
+      "uid" : "1b38ce734ab41bbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683268936829,
+        "stop" : 1683268937770,
+        "duration" : 941
+      }
+    }, {
+      "uid" : "104a29a8bb9365e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683268641911,
+        "stop" : 1683268642827,
+        "duration" : 916
+      }
+    }, {
+      "uid" : "b414ac210c7e5c90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683268096647,
+        "stop" : 1683268097866,
+        "duration" : 1219
+      }
+    }, {
+      "uid" : "e02fe6a88d14cec8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683267566815,
+        "stop" : 1683267567718,
+        "duration" : 903
+      }
+    }, {
+      "uid" : "5179c25d132ecee6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683267050125,
+        "stop" : 1683267051031,
+        "duration" : 906
+      }
+    }, {
+      "uid" : "df3b9aac9f1b17b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683266854822,
+        "stop" : 1683266855712,
+        "duration" : 890
+      }
+    }, {
+      "uid" : "a6a35f637fca9cb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683266265288,
+        "stop" : 1683266266247,
+        "duration" : 959
+      }
+    }, {
+      "uid" : "df98088ae010c170",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683266242195,
+        "stop" : 1683266243047,
+        "duration" : 852
+      }
+    }, {
+      "uid" : "a800e691fd602de0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683266024159,
+        "stop" : 1683266025213,
+        "duration" : 1054
+      }
+    }, {
+      "uid" : "f763c30558866a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265855908,
+        "stop" : 1683265856821,
+        "duration" : 913
+      }
+    }, {
+      "uid" : "80e7ce160d5f2d80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265828471,
+        "stop" : 1683265829478,
+        "duration" : 1007
+      }
+    }, {
+      "uid" : "55d31e618f3dadb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265277874,
+        "stop" : 1683265278785,
+        "duration" : 911
+      }
+    }, {
+      "uid" : "f27519b78013d20f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265193624,
+        "stop" : 1683265194531,
+        "duration" : 907
+      }
+    }, {
+      "uid" : "9fe01e6a9f0e7986",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265025318,
+        "stop" : 1683265026394,
+        "duration" : 1076
+      }
+    }, {
+      "uid" : "822747a5d6707abf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683264591215,
+        "stop" : 1683264592087,
+        "duration" : 872
+      }
+    }, {
+      "uid" : "ac73dafecffcfc96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683264405379,
+        "stop" : 1683264406187,
+        "duration" : 808
+      }
+    }, {
+      "uid" : "bad145964dbf4082",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683264296716,
+        "stop" : 1683264297624,
+        "duration" : 908
+      }
+    }, {
+      "uid" : "56ab02a394619300",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683263999253,
+        "stop" : 1683264000751,
+        "duration" : 1498
+      }
+    }, {
+      "uid" : "d8e9972eda988a6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683255507242,
+        "stop" : 1683255508305,
+        "duration" : 1063
+      }
+    }, {
+      "uid" : "193378692bc4bb6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683255392308,
+        "stop" : 1683255393329,
+        "duration" : 1021
+      }
+    }, {
+      "uid" : "96a3749726ace1f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683254878626,
+        "stop" : 1683254879596,
+        "duration" : 970
+      }
+    }, {
+      "uid" : "40d066141c99fa48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683254594912,
+        "stop" : 1683254595707,
+        "duration" : 795
+      }
+    }, {
+      "uid" : "2f7951d7039f7d0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683254312418,
+        "stop" : 1683254313229,
+        "duration" : 811
+      }
+    }, {
+      "uid" : "3bc4681cf1a3dfa4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683254229898,
+        "stop" : 1683254231141,
+        "duration" : 1243
+      }
+    }, {
+      "uid" : "5b765a1168183243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683254076131,
+        "stop" : 1683254077069,
+        "duration" : 938
+      }
+    }, {
+      "uid" : "842fa10e38272ce9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683254059654,
+        "stop" : 1683254060481,
+        "duration" : 827
+      }
+    }, {
+      "uid" : "2b17aa8b8cf9adf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683253834615,
+        "stop" : 1683253835599,
+        "duration" : 984
+      }
+    }, {
+      "uid" : "a9f7dd0fb8b56fb8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683184827562,
+        "stop" : 1683184828764,
+        "duration" : 1202
+      }
+    }, {
+      "uid" : "ed65d11ec182d235",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683184651667,
+        "stop" : 1683184653155,
+        "duration" : 1488
+      }
+    }, {
+      "uid" : "9fcc625cb7c65bdc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683182768601,
+        "stop" : 1683182769480,
+        "duration" : 879
+      }
+    }, {
+      "uid" : "ae5a67ce1e01317a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683182169290,
+        "stop" : 1683182170216,
+        "duration" : 926
+      }
+    }, {
+      "uid" : "3d75e307451ca647",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683182040008,
+        "stop" : 1683182040851,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "43d948e51c18725d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683181956451,
+        "stop" : 1683181957295,
+        "duration" : 844
+      }
+    }, {
+      "uid" : "269b2e0ccc48b2cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683179518809,
+        "stop" : 1683179519757,
+        "duration" : 948
+      }
+    }, {
+      "uid" : "f9e9327d3da62ce6",
+      "status" : "broken",
+      "statusDetails" : "TypeError: object of type 'int' has no len()",
+      "time" : {
+        "start" : 1683179462867,
+        "stop" : 1683179463779,
+        "duration" : 912
+      }
+    }, {
+      "uid" : "f16e7058ae6835c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683179214677,
+        "stop" : 1683179215476,
+        "duration" : 799
+      }
+    }, {
+      "uid" : "58c9b7955e441a5a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683179199095,
+        "stop" : 1683179202247,
+        "duration" : 3152
+      }
+    }, {
+      "uid" : "733612099ebbc049",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683179132553,
+        "stop" : 1683179133455,
+        "duration" : 902
+      }
+    }, {
+      "uid" : "e04fa9cf7301301a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683178584854,
+        "stop" : 1683178585631,
+        "duration" : 777
+      }
+    }, {
+      "uid" : "4c7d0c96ecba08c5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683171885274,
+        "stop" : 1683171886227,
+        "duration" : 953
+      }
+    }, {
+      "uid" : "bd2c64f5f8cf5a5f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683171724841,
+        "stop" : 1683171725684,
+        "duration" : 843
+      }
+    }, {
+      "uid" : "76e7379013dc5c28",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683171672907,
+        "stop" : 1683171673697,
+        "duration" : 790
+      }
+    }, {
+      "uid" : "a1f8f4361725f33",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683171207163,
+        "stop" : 1683171208106,
+        "duration" : 943
+      }
+    }, {
+      "uid" : "268383c2adf502a6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683170082140,
+        "stop" : 1683170082946,
+        "duration" : 806
+      }
+    }, {
+      "uid" : "68467a8a2ed6fb5f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683169837830,
+        "stop" : 1683169838697,
+        "duration" : 867
+      }
+    }, {
+      "uid" : "70c7ec2e0caa4b54",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683169695777,
+        "stop" : 1683169696774,
+        "duration" : 997
+      }
+    }, {
+      "uid" : "223b0cb73acab14d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683169277889,
+        "stop" : 1683169278727,
+        "duration" : 838
+      }
+    }, {
+      "uid" : "ef5471264d62015a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683169066664,
+        "stop" : 1683169067647,
+        "duration" : 983
+      }
+    }, {
+      "uid" : "26aac73e91ea5382",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'dict' object has no attribute 'request'",
+      "time" : {
+        "start" : 1683168752503,
+        "stop" : 1683168753248,
+        "duration" : 745
+      }
+    }, {
+      "uid" : "cad685fc9955907",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683168460751,
+        "stop" : 1683168461758,
+        "duration" : 1007
+      }
+    }, {
+      "uid" : "62b64da640c55937",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683168426932,
+        "stop" : 1683168427800,
+        "duration" : 868
+      }
+    }, {
+      "uid" : "d6a5aeb0b85bb4cf",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683168288334,
+        "stop" : 1683168289276,
+        "duration" : 942
+      }
+    }, {
+      "uid" : "3fc5a1fe53be5afc",
+      "status" : "broken",
+      "statusDetails" : "TypeError: the JSON object must be str, bytes or bytearray, not dict",
+      "time" : {
+        "start" : 1683168121664,
+        "stop" : 1683168122339,
+        "duration" : 675
+      }
+    }, {
+      "uid" : "1e216a1d501a689f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683167867112,
+        "stop" : 1683167868123,
+        "duration" : 1011
+      }
+    }, {
+      "uid" : "94eca27e7f5a77c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1683167740045,
+        "stop" : 1683167740840,
+        "duration" : 795
+      }
+    }, {
+      "uid" : "75861659c64605f1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1682766473817,
+        "stop" : 1682766474729,
+        "duration" : 912
+      }
+    }, {
+      "uid" : "3279f2dd1cdcc26a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1682766301802,
+        "stop" : 1682766303614,
+        "duration" : 1812
+      }
+    }, {
+      "uid" : "90f67a1b57e00485",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1682766032154,
+        "stop" : 1682766032973,
+        "duration" : 819
+      }
+    }, {
+      "uid" : "4121c919849b4a86",
+      "status" : "broken",
+      "statusDetails" : "TypeError: string indices must be integers",
+      "time" : {
+        "start" : 1682765983899,
+        "stop" : 1682765984319,
+        "duration" : 420
+      }
+    }, {
+      "uid" : "65bdaa75322cb890",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1682756851251,
+        "stop" : 1682756852145,
+        "duration" : 894
+      }
+    }, {
+      "uid" : "9897300d638081f0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+      "time" : {
+        "start" : 1682756711572,
+        "stop" : 1682756712465,
+        "duration" : 893
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac5442862058af14.json",
+  "parameterValues" : [ ]
+}

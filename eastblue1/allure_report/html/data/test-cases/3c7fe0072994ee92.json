@@ -1,0 +1,80 @@
+{
+  "uid" : "3c7fe0072994ee92",
+  "name" : "test_season_giftbag_level_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_giftbag_level_comparison_false",
+  "historyId" : "15b4a0697c82c2eca6e61ff31047ddef",
+  "time" : {
+    "start" : 1683266266251,
+    "stop" : 1683266279141,
+    "duration" : 12890
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3297b81becce7592",
+      "name" : "login",
+      "source" : "3297b81becce7592.txt",
+      "type" : "text/plain",
+      "size" : 1853
+    }, {
+      "uid" : "b2c887801d6ce8c8",
+      "name" : "[api-path]/web-api/data-report/season-giftbag-level ",
+      "source" : "b2c887801d6ce8c8.txt",
+      "type" : "text/plain",
+      "size" : 12296
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "3178-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c7fe0072994ee92.json",
+  "parameterValues" : [ ]
+}

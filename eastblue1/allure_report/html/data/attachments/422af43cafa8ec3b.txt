@@ -1,0 +1,27 @@
+curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 424' -H 'Content-Type: application/x-www-form-urlencoded' -H 'User-Agent: python-requests/2.28.0' -d 'sys_lang=&username=admin&password=rbxfEWgZTO%2BcxrfPmCBfcdQ9H%2BgufNxkblAz77JtB%2BPazR3xQmKrJ6CE3OnmdNWP%2Bu70gVvy5yln%2Fzsst%2FhGtszM4BjnHW538l%2Fatp%2BpiU%2FM17u0oKnmscYaLecyjyHVcLmSV%2FTSwy6xrll0ZNaA%2FRe5HJHH%2FIEtjPinYwjgF88unmmEZG84%2FgSN0L2ru4Rs02jQ1j2tBxQRnTj08flyGykT3CvulehKR7mO9t4U8iEK0ea3zMe0na%2FCAzgA2n913E3fZi%2F1AvDjK6C%2F%2FMVkM0DvZpI1%2FRJnNuG%2BdIORLlfysnGrWvuXipg3GhRwFuTK5%2BO4AQhNjAHf5a0%2F2b98BA%3D%3D' --compressed http://test-eastblue.xinyoudi.com/web-api/home/login
+
+< POST /web-api/home/login HTTP/1.1
+< Host: test-eastblue.xinyoudi.com
+< User-Agent: python-requests/2.28.0
+< Accept-Encoding: gzip, deflate
+< Accept: */*
+< Connection: keep-alive
+< Content-Length: 424
+< Content-Type: application/x-www-form-urlencoded
+< 
+< sys_lang=&username=admin&password=rbxfEWgZTO%2BcxrfPmCBfcdQ9H%2BgufNxkblAz77JtB%2BPazR3xQmKrJ6CE3OnmdNWP%2Bu70gVvy5yln%2Fzsst%2FhGtszM4BjnHW538l%2Fatp%2BpiU%2FM17u0oKnmscYaLecyjyHVcLmSV%2FTSwy6xrll0ZNaA%2FRe5HJHH%2FIEtjPinYwjgF88unmmEZG84%2FgSN0L2ru4Rs02jQ1j2tBxQRnTj08flyGykT3CvulehKR7mO9t4U8iEK0ea3zMe0na%2FCAzgA2n913E3fZi%2F1AvDjK6C%2F%2FMVkM0DvZpI1%2FRJnNuG%2BdIORLlfysnGrWvuXipg3GhRwFuTK5%2BO4AQhNjAHf5a0%2F2b98BA%3D%3D
+
+> HTTP/1.1 200 OK
+> Server: nginx/1.19.10
+> Date: Thu, 04 May 2023 02:37:46 GMT
+> Content-Type: application/json
+> Transfer-Encoding: chunked
+> Connection: keep-alive
+> X-Powered-By: PHP/8.1.16
+> Cache-Control: private, must-revalidate
+> pragma: no-cache
+> expires: -1
+> Set-Cookie: eastblue_master_session=sEZXf0Cx4OPt7jvVLfwV7dkuB8OF10f1pmJrIpzP; expires=Sat, 12 Aug 2023 02:37:46 GMT; Max-Age=8640000; path=/; httponly
+> Content-Encoding: gzip
+> 
+{"error_code":"0","error_msg":"","data":[]}

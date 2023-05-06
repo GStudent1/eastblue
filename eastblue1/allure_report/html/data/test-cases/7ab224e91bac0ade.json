@@ -1,0 +1,80 @@
+{
+  "uid" : "7ab224e91bac0ade",
+  "name" : "test_season_giftbag_group_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_giftbag_group_comparison_false",
+  "historyId" : "893b2033df940d2cb2a261cd92910c68",
+  "time" : {
+    "start" : 1683269120134,
+    "stop" : 1683269128956,
+    "duration" : 8822
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1113e739c0b8111",
+      "name" : "login",
+      "source" : "f1113e739c0b8111.txt",
+      "type" : "text/plain",
+      "size" : 1865
+    }, {
+      "uid" : "6b63f700c219deb0",
+      "name" : "[api-path]/web-api/data-report/season-giftbag-group ",
+      "source" : "6b63f700c219deb0.txt",
+      "type" : "text/plain",
+      "size" : 34564
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "4004-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ab224e91bac0ade.json",
+  "parameterValues" : [ ]
+}

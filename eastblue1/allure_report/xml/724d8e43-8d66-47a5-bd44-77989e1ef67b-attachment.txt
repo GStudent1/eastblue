@@ -1,0 +1,28 @@
+curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 57' -H 'Content-Type: application/json' -H 'User-Agent: python-requests/2.28.0' -H 'cookie: eastblue_master_session=PmP4nusRfY5NWJpFNVnAP8D8AHNxQhkEtOcpm8cc; expires=Sat, 12 Aug 2023 03:10:37 GMT; Max-Age=8640000; path=/; httponly' -d 'game_id=97&attribute_langs=%5B%22all%22%5D&sys_lang=zh-CN' --compressed http://test-eastblue.xinyoudi.com/web-api/data-report/season
+
+< POST /web-api/data-report/season HTTP/1.1
+< Host: test-eastblue.xinyoudi.com
+< User-Agent: python-requests/2.28.0
+< Accept-Encoding: gzip, deflate
+< Accept: */*
+< Connection: keep-alive
+< Content-Type: application/json
+< cookie: eastblue_master_session=PmP4nusRfY5NWJpFNVnAP8D8AHNxQhkEtOcpm8cc; expires=Sat, 12 Aug 2023 03:10:37 GMT; Max-Age=8640000; path=/; httponly
+< Content-Length: 57
+< 
+< game_id=97&attribute_langs=%5B%22all%22%5D&sys_lang=zh-CN
+
+> HTTP/1.1 200 OK
+> Server: nginx/1.19.10
+> Date: Thu, 04 May 2023 03:10:37 GMT
+> Content-Type: application/json
+> Transfer-Encoding: chunked
+> Connection: keep-alive
+> X-Powered-By: PHP/8.1.16
+> Cache-Control: private, must-revalidate
+> pragma: no-cache
+> expires: -1
+> Set-Cookie: eastblue_master_session=PmP4nusRfY5NWJpFNVnAP8D8AHNxQhkEtOcpm8cc; expires=Sat, 12 Aug 2023 03:10:37 GMT; Max-Age=8640000; path=/; httponly
+> Content-Encoding: gzip
+> 
+{"error_code":"900001","error_msg":"(TID:d3eaf5)App\\Http\\Middleware\\CheckUserPermission::updateApiRequestTimes(): Argument #1 ($game_id) must be of type int, null given, called in \/var\/www\/eastblue\/app\/Http\/Middleware\/CheckUserPermission.php on line 23","data":[]}

@@ -1,0 +1,84 @@
+{
+  "uid" : "f9e9327d3da62ce6",
+  "name" : "test_common_data_source",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_common_data_source",
+  "historyId" : "9cccef91270560a4c4452a532ad1e97c",
+  "time" : {
+    "start" : 1683179462867,
+    "stop" : 1683179463779,
+    "duration" : 912
+  },
+  "status" : "broken",
+  "statusMessage" : "TypeError: object of type 'int' has no len()",
+  "statusTrace" : "self = <test_case.test_season_monitoring.test_season.TestSeason object at 0x1097a2c10>\n\n    def test_common_data_source(self):\n        respon = HttpEastBlueApi().web_api_common_get_common_data_source([\"mid\"], \"data-report\")\n        data = respon.get(\"data\")\n        assert_that(data, \"data-report_season_data\").is_not_empty()\n    \n        mid = data.get(\"mid\")\n        for i in mid:\n            assert_that(i.get(\"label\"), \"data-report_season_data_mid_label\").is_not_empty()\n>           assert_that(i.get(\"value\"), \"data-report_season_data_mid_value\").is_not_empty()\nE           TypeError: object of type 'int' has no len()\n\ntest_case/test_season_monitoring/test_season.py:32: TypeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "TypeError: object of type 'int' has no len()",
+    "statusTrace" : "self = <test_case.test_season_monitoring.test_season.TestSeason object at 0x1097a2c10>\n\n    def test_common_data_source(self):\n        respon = HttpEastBlueApi().web_api_common_get_common_data_source([\"mid\"], \"data-report\")\n        data = respon.get(\"data\")\n        assert_that(data, \"data-report_season_data\").is_not_empty()\n    \n        mid = data.get(\"mid\")\n        for i in mid:\n            assert_that(i.get(\"label\"), \"data-report_season_data_mid_label\").is_not_empty()\n>           assert_that(i.get(\"value\"), \"data-report_season_data_mid_value\").is_not_empty()\nE           TypeError: object of type 'int' has no len()\n\ntest_case/test_season_monitoring/test_season.py:32: TypeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "da39c04bb7acd6f9",
+      "name" : "login",
+      "source" : "da39c04bb7acd6f9.txt",
+      "type" : "text/plain",
+      "size" : 1869
+    }, {
+      "uid" : "82c496da7fe6993d",
+      "name" : "[api-path]/web-api/common/get-common-data-source ",
+      "source" : "82c496da7fe6993d.txt",
+      "type" : "text/plain",
+      "size" : 29625
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "16736-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9e9327d3da62ce6.json",
+  "parameterValues" : [ ]
+}

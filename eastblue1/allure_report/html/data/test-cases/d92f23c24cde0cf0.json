@@ -1,0 +1,99 @@
+{
+  "uid" : "d92f23c24cde0cf0",
+  "name" : "test_season_source_score_level_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_source_score_level_comparison_false",
+  "historyId" : "084463f056f44a82f08e388e11b66d69",
+  "time" : {
+    "start" : 1683271174997,
+    "stop" : 1683271238489,
+    "duration" : 63492
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b718ba3453db9fa3",
+      "name" : "login",
+      "source" : "b718ba3453db9fa3.txt",
+      "type" : "text/plain",
+      "size" : 1885
+    }, {
+      "uid" : "23d2756984988b78",
+      "name" : "[api-path]/web-api/data-report/season-funnel ",
+      "source" : "23d2756984988b78.txt",
+      "type" : "text/plain",
+      "size" : 68884
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "4303-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1caf242f85f42596",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [error_code] Expected <200000> to be equal to <0>, but was not.",
+      "time" : {
+        "start" : 1683269607605,
+        "stop" : 1683269628661,
+        "duration" : 21056
+      }
+    }, {
+      "uid" : "bae2b720760bcfcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683268702927,
+        "stop" : 1683268763042,
+        "duration" : 60115
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d92f23c24cde0cf0.json",
+  "parameterValues" : [ ]
+}

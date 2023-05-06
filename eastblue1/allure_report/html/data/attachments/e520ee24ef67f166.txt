@@ -1,0 +1,27 @@
+curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 398' -H 'Content-Type: application/x-www-form-urlencoded' -H 'User-Agent: python-requests/2.28.0' -d 'sys_lang=&username=admin&password=JD59b0IvLkC5LfuLZJSDamWHhMwG%2Fca1XsOtnCd%2FPD7x9tXef8o6n9AW1hHJYIXIxIzXeDODKTm3aMlQFHMgYttiEBfwzT6uCxyBHDIA885VFcage6nrzzyfxKkt30HucVOBcaWHCIGIlCqMWjuLy7M9CzEbYH%2FBe%2FQGwGDLnAL9lskuOrGncwpXiEzXSpPqqfYRSmy2RGgZDq9i9U0U%2FUblZcSLwBBAaF9S9PGJa00luZuRAuu%2FEpaRxe772rK8q172pFdSICaDrdD4TItx88TaqrC6ggrKNbko9SXaHNcGrVMGXq%2FDlngcWo0MahQPiAH1nwXCIVnSiPdRpy2%2FZQ%3D%3D' --compressed http://test-eastblue.xinyoudi.com/web-api/home/login
+
+< POST /web-api/home/login HTTP/1.1
+< Host: test-eastblue.xinyoudi.com
+< User-Agent: python-requests/2.28.0
+< Accept-Encoding: gzip, deflate
+< Accept: */*
+< Connection: keep-alive
+< Content-Length: 398
+< Content-Type: application/x-www-form-urlencoded
+< 
+< sys_lang=&username=admin&password=JD59b0IvLkC5LfuLZJSDamWHhMwG%2Fca1XsOtnCd%2FPD7x9tXef8o6n9AW1hHJYIXIxIzXeDODKTm3aMlQFHMgYttiEBfwzT6uCxyBHDIA885VFcage6nrzzyfxKkt30HucVOBcaWHCIGIlCqMWjuLy7M9CzEbYH%2FBe%2FQGwGDLnAL9lskuOrGncwpXiEzXSpPqqfYRSmy2RGgZDq9i9U0U%2FUblZcSLwBBAaF9S9PGJa00luZuRAuu%2FEpaRxe772rK8q172pFdSICaDrdD4TItx88TaqrC6ggrKNbko9SXaHNcGrVMGXq%2FDlngcWo0MahQPiAH1nwXCIVnSiPdRpy2%2FZQ%3D%3D
+
+> HTTP/1.1 200 OK
+> Server: nginx/1.19.10
+> Date: Fri, 28 Apr 2023 10:41:15 GMT
+> Content-Type: application/json
+> Transfer-Encoding: chunked
+> Connection: keep-alive
+> X-Powered-By: PHP/8.1.16
+> Cache-Control: private, must-revalidate
+> pragma: no-cache
+> expires: -1
+> Set-Cookie: eastblue_master_session=SODGB9nc6hccUlwhWv08HiTxq6W9JnsidNVeJz8a; expires=Sun, 06 Aug 2023 10:41:15 GMT; Max-Age=8640000; path=/; httponly
+> Content-Encoding: gzip
+> 
+{"error_code":"101","error_msg":"(TID:ce982c)账号安全验证失败，请重新输入账号密码后重试","data":[]}

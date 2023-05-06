@@ -1,0 +1,80 @@
+{
+  "uid" : "3ce5ac7d576457be",
+  "name" : "test_season_giftbag_level_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_giftbag_level_comparison_false",
+  "historyId" : "15b4a0697c82c2eca6e61ff31047ddef",
+  "time" : {
+    "start" : 1683265856824,
+    "stop" : 1683265925439,
+    "duration" : 68615
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a4e90419977fdaa3",
+      "name" : "login",
+      "source" : "a4e90419977fdaa3.txt",
+      "type" : "text/plain",
+      "size" : 1861
+    }, {
+      "uid" : "d8637d5b8d9bf8ca",
+      "name" : "[api-path]/web-api/data-report/season-basic-data ",
+      "source" : "d8637d5b8d9bf8ca.txt",
+      "type" : "text/plain",
+      "size" : 12666
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "2983-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ce5ac7d576457be.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "c0c89d6e7ee0be47",
+  "name" : "test_season_basic_data_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_basic_data_comparison_false",
+  "historyId" : "18a44dbdadb83b90ec477f00419a0d74",
+  "time" : {
+    "start" : 1683254879600,
+    "stop" : 1683254919419,
+    "duration" : 39819
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "65504bc5c356e29",
+      "name" : "login",
+      "source" : "65504bc5c356e29.txt",
+      "type" : "text/plain",
+      "size" : 1873
+    }, {
+      "uid" : "7555a9e655c068ce",
+      "name" : "[api-path]/web-api/data-report/season-basic-data ",
+      "source" : "7555a9e655c068ce.txt",
+      "type" : "text/plain",
+      "size" : 8929
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "1775-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0c89d6e7ee0be47.json",
+  "parameterValues" : [ ]
+}

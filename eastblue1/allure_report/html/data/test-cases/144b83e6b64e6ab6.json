@@ -1,0 +1,92 @@
+{
+  "uid" : "144b83e6b64e6ab6",
+  "name" : "test_season_basic_data_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_basic_data_comparison_false",
+  "historyId" : "18a44dbdadb83b90ec477f00419a0d74",
+  "time" : {
+    "start" : 1683182769499,
+    "stop" : 1683182811647,
+    "duration" : 42148
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d24c6f142cfb26e",
+      "name" : "login",
+      "source" : "3d24c6f142cfb26e.txt",
+      "type" : "text/plain",
+      "size" : 1857
+    }, {
+      "uid" : "7f7686bfb6fcd4d0",
+      "name" : "[api-path]/web-api/data-report/season ",
+      "source" : "7f7686bfb6fcd4d0.txt",
+      "type" : "text/plain",
+      "size" : 12434
+    }, {
+      "uid" : "ed40f3b22dbe78e1",
+      "name" : "login",
+      "source" : "ed40f3b22dbe78e1.txt",
+      "type" : "text/plain",
+      "size" : 1869
+    }, {
+      "uid" : "dc6d0013cbcb05de",
+      "name" : "[api-path]/web-api/data-report/season-basic-data ",
+      "source" : "dc6d0013cbcb05de.txt",
+      "type" : "text/plain",
+      "size" : 8925
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "17472-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "144b83e6b64e6ab6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,80 @@
+{
+  "uid" : "b9849e998df8307d",
+  "name" : "test_season_info",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_info",
+  "historyId" : "5b490a64d0e5bb82235a8c02e1f19113",
+  "time" : {
+    "start" : 1683172066843,
+    "stop" : 1683172067857,
+    "duration" : 1014
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4eb18137e5029fde",
+      "name" : "login",
+      "source" : "4eb18137e5029fde.txt",
+      "type" : "text/plain",
+      "size" : 1869
+    }, {
+      "uid" : "7080004b6a5d5c4b",
+      "name" : "[api-path]/web-api/data-report/season ",
+      "source" : "7080004b6a5d5c4b.txt",
+      "type" : "text/plain",
+      "size" : 12438
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "15314-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9849e998df8307d.json",
+  "parameterValues" : [ ]
+}

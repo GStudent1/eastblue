@@ -1,0 +1,80 @@
+{
+  "uid" : "9ec31945a4d851ee",
+  "name" : "test_season_source_score_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_source_score_comparison_false",
+  "historyId" : "53b6bf92dfb6c84fc0dff470e6938076",
+  "time" : {
+    "start" : 1683269386027,
+    "stop" : 1683269449754,
+    "duration" : 63727
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "875284d8d5ec4ccd",
+      "name" : "login",
+      "source" : "875284d8d5ec4ccd.txt",
+      "type" : "text/plain",
+      "size" : 1865
+    }, {
+      "uid" : "70feaf9472462af0",
+      "name" : "[api-path]/web-api/data-report/season-funnel ",
+      "source" : "70feaf9472462af0.txt",
+      "type" : "text/plain",
+      "size" : 83565
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "4054-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ec31945a4d851ee.json",
+  "parameterValues" : [ ]
+}

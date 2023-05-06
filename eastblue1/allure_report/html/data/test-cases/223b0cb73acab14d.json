@@ -1,0 +1,84 @@
+{
+  "uid" : "223b0cb73acab14d",
+  "name" : "test_common_data_source",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_common_data_source",
+  "historyId" : "9cccef91270560a4c4452a532ad1e97c",
+  "time" : {
+    "start" : 1683169277889,
+    "stop" : 1683169278727,
+    "duration" : 838
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+  "statusTrace" : "self = <test_case.test_season_monitoring.test_season.TestSeason object at 0x10f364bb0>\n\n    def test_common_data_source(self):\n        respon= HttpEastBlueApi().web_api_common_get_common_data_source([\"mid\"],\"data-report\")\n        data=respon.get(\"data\")\n    \n>       assert_that(data, \"data-report_season_data\").is_not_empty()\nE       AssertionError: [data-report_season_data] Expected not empty, but was empty.\n\ntest_case/test_season_monitoring/test_season.py:28: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: [data-report_season_data] Expected not empty, but was empty.",
+    "statusTrace" : "self = <test_case.test_season_monitoring.test_season.TestSeason object at 0x10f364bb0>\n\n    def test_common_data_source(self):\n        respon= HttpEastBlueApi().web_api_common_get_common_data_source([\"mid\"],\"data-report\")\n        data=respon.get(\"data\")\n    \n>       assert_that(data, \"data-report_season_data\").is_not_empty()\nE       AssertionError: [data-report_season_data] Expected not empty, but was empty.\n\ntest_case/test_season_monitoring/test_season.py:28: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4be9ce215ff1da20",
+      "name" : "login",
+      "source" : "4be9ce215ff1da20.txt",
+      "type" : "text/plain",
+      "size" : 1869
+    }, {
+      "uid" : "81ad00f47732cdd7",
+      "name" : "[api-path]/web-api/common/get-common-data-source ",
+      "source" : "81ad00f47732cdd7.txt",
+      "type" : "text/plain",
+      "size" : 1678
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "13587-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "223b0cb73acab14d.json",
+  "parameterValues" : [ ]
+}

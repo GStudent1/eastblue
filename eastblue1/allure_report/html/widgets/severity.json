@@ -1,0 +1,81 @@
+[ {
+  "uid" : "d92f23c24cde0cf0",
+  "name" : "test_season_source_score_level_comparison_false",
+  "time" : {
+    "start" : 1683271174997,
+    "stop" : 1683271238489,
+    "duration" : 63492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46cf0a36dbdafe85",
+  "name" : "test_season_source_score_gear_comparison_false",
+  "time" : {
+    "start" : 1683271131492,
+    "stop" : 1683271174992,
+    "duration" : 43500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "700a22b202e55044",
+  "name" : "test_season_source_score_comparison_false",
+  "time" : {
+    "start" : 1683271062307,
+    "stop" : 1683271131489,
+    "duration" : 69182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9577c1977cdbfee",
+  "name" : "test_season_basic_data_comparison_false",
+  "time" : {
+    "start" : 1683270994264,
+    "stop" : 1683271041565,
+    "duration" : 47301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa0c5090e07029c3",
+  "name" : "test_season_info",
+  "time" : {
+    "start" : 1683270992176,
+    "stop" : 1683270993231,
+    "duration" : 1055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7ff94852ae50d50",
+  "name" : "test_season_giftbag_group_comparison_false",
+  "time" : {
+    "start" : 1683271041570,
+    "stop" : 1683271049966,
+    "duration" : 8396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac5442862058af14",
+  "name" : "test_common_data_source",
+  "time" : {
+    "start" : 1683270993249,
+    "stop" : 1683270994258,
+    "duration" : 1009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2cd0dd0d42b18b5c",
+  "name" : "test_season_giftbag_level_comparison_false",
+  "time" : {
+    "start" : 1683271049970,
+    "stop" : 1683271062304,
+    "duration" : 12334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

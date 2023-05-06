@@ -1,0 +1,4028 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "enhengdeMacBook-Air.local",
+    "children" : [ {
+      "name" : "4004-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "e4860f0e58de1b57",
+        "parentUid" : "72f28257cc9f9fbe3ea8a89c1782f5de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269119280,
+          "stop" : 1683269120132,
+          "duration" : 852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "6b4cee5eb086ac15",
+        "parentUid" : "72f28257cc9f9fbe3ea8a89c1782f5de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269118304,
+          "stop" : 1683269119259,
+          "duration" : 955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_group_comparison_false",
+        "uid" : "7ab224e91bac0ade",
+        "parentUid" : "72f28257cc9f9fbe3ea8a89c1782f5de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269120134,
+          "stop" : 1683269128956,
+          "duration" : 8822
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72f28257cc9f9fbe3ea8a89c1782f5de"
+    }, {
+      "name" : "14440-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "63e228cdce7c4af0",
+        "parentUid" : "cedf673a1f693199a3dbe90e95f6cb4a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683170718635,
+          "stop" : 1683170719552,
+          "duration" : 917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cedf673a1f693199a3dbe90e95f6cb4a"
+    }, {
+      "name" : "12966-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "1e216a1d501a689f",
+        "parentUid" : "82499357b02ab564403802058228ec61",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683167867112,
+          "stop" : 1683167868123,
+          "duration" : 1011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "a98446cd684d7510",
+        "parentUid" : "82499357b02ab564403802058228ec61",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683167866016,
+          "stop" : 1683167866961,
+          "duration" : 945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82499357b02ab564403802058228ec61"
+    }, {
+      "name" : "12043-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "7552aa1437b594ed",
+        "parentUid" : "55644f30387c226e7480ed2eb1e3fcd9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682766472687,
+          "stop" : 1682766473705,
+          "duration" : 1018
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "75861659c64605f1",
+        "parentUid" : "55644f30387c226e7480ed2eb1e3fcd9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682766473817,
+          "stop" : 1682766474729,
+          "duration" : 912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "55644f30387c226e7480ed2eb1e3fcd9"
+    }, {
+      "name" : "1524-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "3bc4681cf1a3dfa4",
+        "parentUid" : "d277450ca63c831131960fc52fbae4f0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683254229898,
+          "stop" : 1683254231141,
+          "duration" : 1243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "5660eca9bcfc3240",
+        "parentUid" : "d277450ca63c831131960fc52fbae4f0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683254228861,
+          "stop" : 1683254229783,
+          "duration" : 922
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d277450ca63c831131960fc52fbae4f0"
+    }, {
+      "name" : "2425-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "ac73dafecffcfc96",
+        "parentUid" : "2abe510622a1bae02be669490e64ecda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264405379,
+          "stop" : 1683264406187,
+          "duration" : 808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "7e5f865a920eec98",
+        "parentUid" : "2abe510622a1bae02be669490e64ecda",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683264406191,
+          "stop" : 1683264455016,
+          "duration" : 48825
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "556f34db8a3b30c7",
+        "parentUid" : "2abe510622a1bae02be669490e64ecda",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264404392,
+          "stop" : 1683264405360,
+          "duration" : 968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2abe510622a1bae02be669490e64ecda"
+    }, {
+      "name" : "13587-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "223b0cb73acab14d",
+        "parentUid" : "d534c30bf5696b04aaeabe980baa1af0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169277889,
+          "stop" : 1683169278727,
+          "duration" : 838
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "4246435ca274514",
+        "parentUid" : "d534c30bf5696b04aaeabe980baa1af0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683169268457,
+          "stop" : 1683169277874,
+          "duration" : 9417
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d534c30bf5696b04aaeabe980baa1af0"
+    }, {
+      "name" : "1878-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "352be50fd42bffae",
+        "parentUid" : "7252377a7d62c759798d9f5c08529013",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255391255,
+          "stop" : 1683255392289,
+          "duration" : 1034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "193378692bc4bb6c",
+        "parentUid" : "7252377a7d62c759798d9f5c08529013",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255392308,
+          "stop" : 1683255393329,
+          "duration" : 1021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "1a5e569ceaadf742",
+        "parentUid" : "7252377a7d62c759798d9f5c08529013",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255393333,
+          "stop" : 1683255428221,
+          "duration" : 34888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7252377a7d62c759798d9f5c08529013"
+    }, {
+      "name" : "3178-MainThread",
+      "children" : [ {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "3c7fe0072994ee92",
+        "parentUid" : "587ee3f77c12351b36c9c1814b8a06a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266266251,
+          "stop" : 1683266279141,
+          "duration" : 12890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "a6a35f637fca9cb1",
+        "parentUid" : "587ee3f77c12351b36c9c1814b8a06a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266265288,
+          "stop" : 1683266266247,
+          "duration" : 959
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "e9c5751264993559",
+        "parentUid" : "587ee3f77c12351b36c9c1814b8a06a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266264355,
+          "stop" : 1683266265271,
+          "duration" : 916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "587ee3f77c12351b36c9c1814b8a06a3"
+    }, {
+      "name" : "4054-MainThread",
+      "children" : [ {
+        "name" : "test_season_source_score_gear_comparison_false",
+        "uid" : "92f0ac7a567add2c",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683269449756,
+          "stop" : 1683269607499,
+          "duration" : 157743
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "4fcc896f75c9eeea",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269317679,
+          "stop" : 1683269318711,
+          "duration" : 1032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "a3937b4808525d31",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269319615,
+          "stop" : 1683269365789,
+          "duration" : 46174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "bed8f04d908c2165",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269374504,
+          "stop" : 1683269386023,
+          "duration" : 11519
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "9ec31945a4d851ee",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269386027,
+          "stop" : 1683269449754,
+          "duration" : 63727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_group_comparison_false",
+        "uid" : "ec8bb63cd36b7615",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269365794,
+          "stop" : 1683269374501,
+          "duration" : 8707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "ffea7cb359df0381",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269318727,
+          "stop" : 1683269319611,
+          "duration" : 884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_level_comparison_false",
+        "uid" : "1caf242f85f42596",
+        "parentUid" : "aa7ede1ae70976d10a289777d1714fe2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683269607605,
+          "stop" : 1683269628661,
+          "duration" : 21056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa7ede1ae70976d10a289777d1714fe2"
+    }, {
+      "name" : "1452-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "5b765a1168183243",
+        "parentUid" : "43667fb4ffd73c32a5ee67ecc9972458",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254076131,
+          "stop" : 1683254077069,
+          "duration" : 938
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "32acf39ed20d0f1c",
+        "parentUid" : "43667fb4ffd73c32a5ee67ecc9972458",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254075081,
+          "stop" : 1683254076116,
+          "duration" : 1035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "43667fb4ffd73c32a5ee67ecc9972458"
+    }, {
+      "name" : "13200-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "6e6fc02c5256f0ef",
+        "parentUid" : "253205a851ba4a400b26872e7e35c8ac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168426009,
+          "stop" : 1683168426818,
+          "duration" : 809
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "62b64da640c55937",
+        "parentUid" : "253205a851ba4a400b26872e7e35c8ac",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168426932,
+          "stop" : 1683168427800,
+          "duration" : 868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "253205a851ba4a400b26872e7e35c8ac"
+    }, {
+      "name" : "16323-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e49e51dc49b19318",
+        "parentUid" : "7db34e020351a229da73ad2a080f9292",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683178583867,
+          "stop" : 1683178584835,
+          "duration" : 968
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "e04fa9cf7301301a",
+        "parentUid" : "7db34e020351a229da73ad2a080f9292",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683178584854,
+          "stop" : 1683178585631,
+          "duration" : 777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7db34e020351a229da73ad2a080f9292"
+    }, {
+      "name" : "1688-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "40d066141c99fa48",
+        "parentUid" : "de73832e7a27871fa16cf3f813216ac6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254594912,
+          "stop" : 1683254595707,
+          "duration" : 795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "87ea4c4e7cfed632",
+        "parentUid" : "de73832e7a27871fa16cf3f813216ac6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254593990,
+          "stop" : 1683254594893,
+          "duration" : 903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de73832e7a27871fa16cf3f813216ac6"
+    }, {
+      "name" : "15314-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "b9849e998df8307d",
+        "parentUid" : "17fc6086b8f43e32e9e855d033f9e9f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172066843,
+          "stop" : 1683172067857,
+          "duration" : 1014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "17fc6086b8f43e32e9e855d033f9e9f6"
+    }, {
+      "name" : "2762-MainThread",
+      "children" : [ {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "dc923536caa82d9c",
+        "parentUid" : "50b61fb5c46f1ec5511286be66af420d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265278789,
+          "stop" : 1683265332642,
+          "duration" : 53853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "772a37f613f8908a",
+        "parentUid" : "50b61fb5c46f1ec5511286be66af420d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265276855,
+          "stop" : 1683265277856,
+          "duration" : 1001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "55d31e618f3dadb2",
+        "parentUid" : "50b61fb5c46f1ec5511286be66af420d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265277874,
+          "stop" : 1683265278785,
+          "duration" : 911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "50b61fb5c46f1ec5511286be66af420d"
+    }, {
+      "name" : "12900-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "94eca27e7f5a77c",
+        "parentUid" : "c95299857410e3e0727c3358f8177a9e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683167740045,
+          "stop" : 1683167740840,
+          "duration" : 795
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "81a6804f29eb954c",
+        "parentUid" : "c95299857410e3e0727c3358f8177a9e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683167738996,
+          "stop" : 1683167739931,
+          "duration" : 935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c95299857410e3e0727c3358f8177a9e"
+    }, {
+      "name" : "2697-MainThread",
+      "children" : [ {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "a0feec53649a55c4",
+        "parentUid" : "b3dae10b6ed7cf7bbd5d6f8bb993ee7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683265194534,
+          "stop" : 1683265240649,
+          "duration" : 46115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "f27519b78013d20f",
+        "parentUid" : "b3dae10b6ed7cf7bbd5d6f8bb993ee7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265193624,
+          "stop" : 1683265194531,
+          "duration" : 907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "76c2815c78c7b0d2",
+        "parentUid" : "b3dae10b6ed7cf7bbd5d6f8bb993ee7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265192604,
+          "stop" : 1683265193605,
+          "duration" : 1001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b3dae10b6ed7cf7bbd5d6f8bb993ee7a"
+    }, {
+      "name" : "3953-MainThread",
+      "children" : [ {
+        "name" : "test_season_giftbag_group_comparison_false",
+        "uid" : "491cb45dc6399e81",
+        "parentUid" : "661f572b91368cdd2c6c042e29f40d3f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683269094646,
+          "stop" : 1683269103415,
+          "duration" : 8769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "9578d6fbf0cad53f",
+        "parentUid" : "661f572b91368cdd2c6c042e29f40d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269092697,
+          "stop" : 1683269093717,
+          "duration" : 1020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "959053832248a597",
+        "parentUid" : "661f572b91368cdd2c6c042e29f40d3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683269093736,
+          "stop" : 1683269094642,
+          "duration" : 906
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "661f572b91368cdd2c6c042e29f40d3f"
+    }, {
+      "name" : "11957-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "d8c552a61fb72a1",
+        "parentUid" : "6e0eb44c2e03d04b6a409267b55e0c80",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682766300770,
+          "stop" : 1682766301785,
+          "duration" : 1015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "3279f2dd1cdcc26a",
+        "parentUid" : "6e0eb44c2e03d04b6a409267b55e0c80",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682766301802,
+          "stop" : 1682766303614,
+          "duration" : 1812
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e0eb44c2e03d04b6a409267b55e0c80"
+    }, {
+      "name" : "17885-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "a9f7dd0fb8b56fb8",
+        "parentUid" : "0724194457d242a8fab39cf43afc54c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683184827562,
+          "stop" : 1683184828764,
+          "duration" : 1202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "da48affabcd763b3",
+        "parentUid" : "0724194457d242a8fab39cf43afc54c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683184824233,
+          "stop" : 1683184827544,
+          "duration" : 3311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0724194457d242a8fab39cf43afc54c5"
+    }, {
+      "name" : "16582-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "58c9b7955e441a5a",
+        "parentUid" : "b1edd1087257f126d9310c907c411b3c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683179199095,
+          "stop" : 1683179202247,
+          "duration" : 3152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "2afabdb2e8acc831",
+        "parentUid" : "b1edd1087257f126d9310c907c411b3c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683179196680,
+          "stop" : 1683179198985,
+          "duration" : 2305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b1edd1087257f126d9310c907c411b3c"
+    }, {
+      "name" : "11246-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "ecd87ebdfe89b6a8",
+        "parentUid" : "eb3d31b03e6b6322135be4e545068a30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682756850168,
+          "stop" : 1682756851234,
+          "duration" : 1066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "65bdaa75322cb890",
+        "parentUid" : "eb3d31b03e6b6322135be4e545068a30",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682756851251,
+          "stop" : 1682756852145,
+          "duration" : 894
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb3d31b03e6b6322135be4e545068a30"
+    }, {
+      "name" : "17257-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "af7480bacffd2cb8",
+        "parentUid" : "abdb299ae8fc99fd743f45653539bc82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182039064,
+          "stop" : 1683182039989,
+          "duration" : 925
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "d726a6ab48bca319",
+        "parentUid" : "abdb299ae8fc99fd743f45653539bc82",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683182040855,
+          "stop" : 1683182040855,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "3d75e307451ca647",
+        "parentUid" : "abdb299ae8fc99fd743f45653539bc82",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182040008,
+          "stop" : 1683182040851,
+          "duration" : 843
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "abdb299ae8fc99fd743f45653539bc82"
+    }, {
+      "name" : "10919-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "8ad2ad2ea14445",
+        "parentUid" : "8d6adfe7b449befe0ad2d000310ac416",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682756709525,
+          "stop" : 1682756711556,
+          "duration" : 2031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "9897300d638081f0",
+        "parentUid" : "8d6adfe7b449befe0ad2d000310ac416",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682756711572,
+          "stop" : 1682756712465,
+          "duration" : 893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d6adfe7b449befe0ad2d000310ac416"
+    }, {
+      "name" : "13135-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "34bd700d3faa1c10",
+        "parentUid" : "5da0aac8f43ef9f3b87eabf44d96730a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168287234,
+          "stop" : 1683168288199,
+          "duration" : 965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "d6a5aeb0b85bb4cf",
+        "parentUid" : "5da0aac8f43ef9f3b87eabf44d96730a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168288334,
+          "stop" : 1683168289276,
+          "duration" : 942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5da0aac8f43ef9f3b87eabf44d96730a"
+    }, {
+      "name" : "15367-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e80b2ab5d337b560",
+        "parentUid" : "0ef05f23f3408f4d7f9e216bb3d01200",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172142418,
+          "stop" : 1683172143773,
+          "duration" : 1355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ef05f23f3408f4d7f9e216bb3d01200"
+    }, {
+      "name" : "3305-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "d2b5ea95ed1b9346",
+        "parentUid" : "2353f823a12f2da810b03c2bd6107400",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266853829,
+          "stop" : 1683266854803,
+          "duration" : 974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "8de2ecfb042a1da2",
+        "parentUid" : "2353f823a12f2da810b03c2bd6107400",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266855716,
+          "stop" : 1683266862923,
+          "duration" : 7207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "df3b9aac9f1b17b",
+        "parentUid" : "2353f823a12f2da810b03c2bd6107400",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266854822,
+          "stop" : 1683266855712,
+          "duration" : 890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2353f823a12f2da810b03c2bd6107400"
+    }, {
+      "name" : "17188-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "f09a73b05df3b212",
+        "parentUid" : "f3c41a94794bc935f0a5c39630238fce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683181955430,
+          "stop" : 1683181956428,
+          "duration" : 998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "59b2244951dfcd1c",
+        "parentUid" : "f3c41a94794bc935f0a5c39630238fce",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683181957298,
+          "stop" : 1683181957299,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "43d948e51c18725d",
+        "parentUid" : "f3c41a94794bc935f0a5c39630238fce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683181956451,
+          "stop" : 1683181957295,
+          "duration" : 844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3c41a94794bc935f0a5c39630238fce"
+    }, {
+      "name" : "16634-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "b3ace34a754ad130",
+        "parentUid" : "1bf740a1662ab4c1f223abc6a1c40cec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179213791,
+          "stop" : 1683179214657,
+          "duration" : 866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "f16e7058ae6835c7",
+        "parentUid" : "1bf740a1662ab4c1f223abc6a1c40cec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179214677,
+          "stop" : 1683179215476,
+          "duration" : 799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1bf740a1662ab4c1f223abc6a1c40cec"
+    }, {
+      "name" : "14837-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "8055f70c0abca10f",
+        "parentUid" : "6fe4e4c817d363651fd43d57c285ffe9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683171158709,
+          "stop" : 1683171159582,
+          "duration" : 873
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6fe4e4c817d363651fd43d57c285ffe9"
+    }, {
+      "name" : "13331-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "26aac73e91ea5382",
+        "parentUid" : "9032245a5bac00881ed5b26303be9eee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683168752503,
+          "stop" : 1683168753248,
+          "duration" : 745
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "d71c37a7c2540b18",
+        "parentUid" : "9032245a5bac00881ed5b26303be9eee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683168751590,
+          "stop" : 1683168752398,
+          "duration" : 808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9032245a5bac00881ed5b26303be9eee"
+    }, {
+      "name" : "9797-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "a51e8280de29a52f",
+        "parentUid" : "c5ded21296d356f5546e7b84470a0f7c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682754492940,
+          "stop" : 1682754492940,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c5ded21296d356f5546e7b84470a0f7c"
+    }, {
+      "name" : "3900-MainThread",
+      "children" : [ {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "acb24dcf99b97e09",
+        "parentUid" : "3f869e22d78a5c35c9195a11dd55d520",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268937774,
+          "stop" : 1683268945937,
+          "duration" : 8163
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "7346968e456b1812",
+        "parentUid" : "3f869e22d78a5c35c9195a11dd55d520",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268935799,
+          "stop" : 1683268936812,
+          "duration" : 1013
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "1b38ce734ab41bbd",
+        "parentUid" : "3f869e22d78a5c35c9195a11dd55d520",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268936829,
+          "stop" : 1683268937770,
+          "duration" : 941
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f869e22d78a5c35c9195a11dd55d520"
+    }, {
+      "name" : "1964-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "d8e9972eda988a6f",
+        "parentUid" : "4cae7c00beced2814575146af0a093c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255507242,
+          "stop" : 1683255508305,
+          "duration" : 1063
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "4793efa6262da924",
+        "parentUid" : "4cae7c00beced2814575146af0a093c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255506339,
+          "stop" : 1683255507227,
+          "duration" : 888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "10b13e2f07d160c8",
+        "parentUid" : "4cae7c00beced2814575146af0a093c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683255508308,
+          "stop" : 1683255557818,
+          "duration" : 49510
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cae7c00beced2814575146af0a093c7"
+    }, {
+      "name" : "10015-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "6e8ddebfbf872a49",
+        "parentUid" : "05d2f9504be7684db1b0bb375e1b14a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682755034838,
+          "stop" : 1682755034838,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "05d2f9504be7684db1b0bb375e1b14a4"
+    }, {
+      "name" : "3049-MainThread",
+      "children" : [ {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "9493262c37f359ca",
+        "parentUid" : "f41efe03e4fd910f5b43f42401da399a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683266025217,
+          "stop" : 1683266026175,
+          "duration" : 958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "9af2769ae7674337",
+        "parentUid" : "f41efe03e4fd910f5b43f42401da399a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266023134,
+          "stop" : 1683266024142,
+          "duration" : 1008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "a800e691fd602de0",
+        "parentUid" : "f41efe03e4fd910f5b43f42401da399a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266024159,
+          "stop" : 1683266025213,
+          "duration" : 1054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f41efe03e4fd910f5b43f42401da399a"
+    }, {
+      "name" : "4303-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "ac5442862058af14",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683270993249,
+          "stop" : 1683270994258,
+          "duration" : 1009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 64,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "9577c1977cdbfee",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683270994264,
+          "stop" : 1683271041565,
+          "duration" : 47301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 16,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "2cd0dd0d42b18b5c",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683271049970,
+          "stop" : 1683271062304,
+          "duration" : 12334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "aa0c5090e07029c3",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683270992176,
+          "stop" : 1683270993231,
+          "duration" : 1055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 105,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_gear_comparison_false",
+        "uid" : "46cf0a36dbdafe85",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683271131492,
+          "stop" : 1683271174992,
+          "duration" : 43500
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_level_comparison_false",
+        "uid" : "d92f23c24cde0cf0",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683271174997,
+          "stop" : 1683271238489,
+          "duration" : 63492
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "700a22b202e55044",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683271062307,
+          "stop" : 1683271131489,
+          "duration" : 69182
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_group_comparison_false",
+        "uid" : "f7ff94852ae50d50",
+        "parentUid" : "9129de2754bab3d5bb7853ab51a4421c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683271041570,
+          "stop" : 1683271049966,
+          "duration" : 8396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9129de2754bab3d5bb7853ab51a4421c"
+    }, {
+      "name" : "13444-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "40f0ef7f0d896eea",
+        "parentUid" : "f2cc47767d73b90525f771634b5b0abe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169065612,
+          "stop" : 1683169066547,
+          "duration" : 935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "ef5471264d62015a",
+        "parentUid" : "f2cc47767d73b90525f771634b5b0abe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169066664,
+          "stop" : 1683169067647,
+          "duration" : 983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f2cc47767d73b90525f771634b5b0abe"
+    }, {
+      "name" : "15070-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "216e07069cad5536",
+        "parentUid" : "4cced4bcb21c4850210e8708cbfa0d91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683171723257,
+          "stop" : 1683171724825,
+          "duration" : 1568
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "bd2c64f5f8cf5a5f",
+        "parentUid" : "4cced4bcb21c4850210e8708cbfa0d91",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171724841,
+          "stop" : 1683171725684,
+          "duration" : 843
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4cced4bcb21c4850210e8708cbfa0d91"
+    }, {
+      "name" : "2983-MainThread",
+      "children" : [ {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "3ce5ac7d576457be",
+        "parentUid" : "892f3f8efd60c7b6aadff719050469b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265856824,
+          "stop" : 1683265925439,
+          "duration" : 68615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "9d0aa470e5bdad47",
+        "parentUid" : "892f3f8efd60c7b6aadff719050469b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265854881,
+          "stop" : 1683265855889,
+          "duration" : 1008
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "f763c30558866a5a",
+        "parentUid" : "892f3f8efd60c7b6aadff719050469b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265855908,
+          "stop" : 1683265856821,
+          "duration" : 913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "892f3f8efd60c7b6aadff719050469b3"
+    }, {
+      "name" : "3519-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "cbea79c6f0c42795",
+        "parentUid" : "43b31091aa3d343f267908df677fb852",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683267565696,
+          "stop" : 1683267566796,
+          "duration" : 1100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "e02fe6a88d14cec8",
+        "parentUid" : "43b31091aa3d343f267908df677fb852",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683267566815,
+          "stop" : 1683267567718,
+          "duration" : 903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "e5756df93500bafd",
+        "parentUid" : "43b31091aa3d343f267908df677fb852",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683267567722,
+          "stop" : 1683267627629,
+          "duration" : 59907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "43b31091aa3d343f267908df677fb852"
+    }, {
+      "name" : "2514-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "822747a5d6707abf",
+        "parentUid" : "f637e1394d8832f3453bb44f48162c4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264591215,
+          "stop" : 1683264592087,
+          "duration" : 872
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "673b6988a6125f10",
+        "parentUid" : "f637e1394d8832f3453bb44f48162c4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264592091,
+          "stop" : 1683264638828,
+          "duration" : 46737
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "c00ca47171eb4f3d",
+        "parentUid" : "f637e1394d8832f3453bb44f48162c4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264590151,
+          "stop" : 1683264591198,
+          "duration" : 1047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f637e1394d8832f3453bb44f48162c4d"
+    }, {
+      "name" : "14006-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "6fa9c6a9a9903308",
+        "parentUid" : "8e6044fbfd25d35d094368fc1c039a52",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170208228,
+          "stop" : 1683170209081,
+          "duration" : 853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e6044fbfd25d35d094368fc1c039a52"
+    }, {
+      "name" : "2356-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e25cf4f134db6059",
+        "parentUid" : "6af086b58e2b6d5f5edf19e486df7140",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264295636,
+          "stop" : 1683264296697,
+          "duration" : 1061
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "bad145964dbf4082",
+        "parentUid" : "6af086b58e2b6d5f5edf19e486df7140",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683264296716,
+          "stop" : 1683264297624,
+          "duration" : 908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "88f1e8694931da14",
+        "parentUid" : "6af086b58e2b6d5f5edf19e486df7140",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683264297628,
+          "stop" : 1683264347808,
+          "duration" : 50180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6af086b58e2b6d5f5edf19e486df7140"
+    }, {
+      "name" : "14194-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e2b6e27da5fc4e99",
+        "parentUid" : "3b0aa953313f68889093d34b240df340",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170454805,
+          "stop" : 1683170455760,
+          "duration" : 955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b0aa953313f68889093d34b240df340"
+    }, {
+      "name" : "15258-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "d22df61bf0f8e77c",
+        "parentUid" : "1a3997b361220ea4fe38ab909adaa6e1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172045800,
+          "stop" : 1683172046669,
+          "duration" : 869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a3997b361220ea4fe38ab909adaa6e1"
+    }, {
+      "name" : "15130-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "4c7d0c96ecba08c5",
+        "parentUid" : "890830213173576088b0039b37a1ea4b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171885274,
+          "stop" : 1683171886227,
+          "duration" : 953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "536395bed85e454",
+        "parentUid" : "890830213173576088b0039b37a1ea4b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171883960,
+          "stop" : 1683171885163,
+          "duration" : 1203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "890830213173576088b0039b37a1ea4b"
+    }, {
+      "name" : "14131-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "77300817fb20425b",
+        "parentUid" : "76283f3d8b125d36c44b16331e4b05f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170401895,
+          "stop" : 1683170403699,
+          "duration" : 1804
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76283f3d8b125d36c44b16331e4b05f7"
+    }, {
+      "name" : "11798-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "7864a13b801850e7",
+        "parentUid" : "0369eb6d0ec7a56e7ccf4108455594c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682765983153,
+          "stop" : 1682765983719,
+          "duration" : 566
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "4121c919849b4a86",
+        "parentUid" : "0369eb6d0ec7a56e7ccf4108455594c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682765983899,
+          "stop" : 1682765984319,
+          "duration" : 420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0369eb6d0ec7a56e7ccf4108455594c5"
+    }, {
+      "name" : "3129-MainThread",
+      "children" : [ {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "706b0adafd28374",
+        "parentUid" : "a273f241911e66fe6149fdce00483c7d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683266243051,
+          "stop" : 1683266243051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "fd28ab9807185c6a",
+        "parentUid" : "a273f241911e66fe6149fdce00483c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266241065,
+          "stop" : 1683266242178,
+          "duration" : 1113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "df98088ae010c170",
+        "parentUid" : "a273f241911e66fe6149fdce00483c7d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683266242195,
+          "stop" : 1683266243047,
+          "duration" : 852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a273f241911e66fe6149fdce00483c7d"
+    }, {
+      "name" : "14903-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "a1f8f4361725f33",
+        "parentUid" : "dfc9cadec136ac6781240edbc139ce1c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171207163,
+          "stop" : 1683171208106,
+          "duration" : 943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "f89d7c97c4077338",
+        "parentUid" : "dfc9cadec136ac6781240edbc139ce1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683171206181,
+          "stop" : 1683171207145,
+          "duration" : 964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dfc9cadec136ac6781240edbc139ce1c"
+    }, {
+      "name" : "16736-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "f9e9327d3da62ce6",
+        "parentUid" : "92f805d6f81d43e626c18d431835d034",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683179462867,
+          "stop" : 1683179463779,
+          "duration" : 912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "38580fca928bc9ec",
+        "parentUid" : "92f805d6f81d43e626c18d431835d034",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179461506,
+          "stop" : 1683179462845,
+          "duration" : 1339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92f805d6f81d43e626c18d431835d034"
+    }, {
+      "name" : "9398-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e3cf75998270b140",
+        "parentUid" : "a3c5ea47c47c02df848f832dc3e99cc6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682753277846,
+          "stop" : 1682753278911,
+          "duration" : 1065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a3c5ea47c47c02df848f832dc3e99cc6"
+    }, {
+      "name" : "15805-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "5e0c98f3b165f1b6",
+        "parentUid" : "87d53282c4071ec59403611a2f804188",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172815342,
+          "stop" : 1683172816375,
+          "duration" : 1033
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "87d53282c4071ec59403611a2f804188"
+    }, {
+      "name" : "5698-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "466408403a81f65c",
+        "parentUid" : "84e19d9acb4dfde87912219726e47b90",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682667533552,
+          "stop" : 1682667533923,
+          "duration" : 371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84e19d9acb4dfde87912219726e47b90"
+    }, {
+      "name" : "2634-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "44eed34f1c6fbf8c",
+        "parentUid" : "7158262ce99ed7d603c1e58398713d3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265024350,
+          "stop" : 1683265025300,
+          "duration" : 950
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "9fe01e6a9f0e7986",
+        "parentUid" : "7158262ce99ed7d603c1e58398713d3e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265025318,
+          "stop" : 1683265026394,
+          "duration" : 1076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "12c8411dc22151a3",
+        "parentUid" : "7158262ce99ed7d603c1e58398713d3e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683265026397,
+          "stop" : 1683265067348,
+          "duration" : 40951
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7158262ce99ed7d603c1e58398713d3e"
+    }, {
+      "name" : "1404-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "36ab9409ecbf4ddb",
+        "parentUid" : "21d73756ab915bf56d0461fd1c648b64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254058648,
+          "stop" : 1683254059642,
+          "duration" : 994
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "842fa10e38272ce9",
+        "parentUid" : "21d73756ab915bf56d0461fd1c648b64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254059654,
+          "stop" : 1683254060481,
+          "duration" : 827
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21d73756ab915bf56d0461fd1c648b64"
+    }, {
+      "name" : "14997-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "76e7379013dc5c28",
+        "parentUid" : "0cf26c0084390c427cedb12e08d08a8b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171672907,
+          "stop" : 1683171673697,
+          "duration" : 790
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "b662a7d25b74d97b",
+        "parentUid" : "0cf26c0084390c427cedb12e08d08a8b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683171671987,
+          "stop" : 1683171672889,
+          "duration" : 902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0cf26c0084390c427cedb12e08d08a8b"
+    }, {
+      "name" : "17472-MainThread",
+      "children" : [ {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "144b83e6b64e6ab6",
+        "parentUid" : "d2a1f00170fc538119bcb3f08d8cee66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182769499,
+          "stop" : 1683182811647,
+          "duration" : 42148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "9fcc625cb7c65bdc",
+        "parentUid" : "d2a1f00170fc538119bcb3f08d8cee66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182768601,
+          "stop" : 1683182769480,
+          "duration" : 879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d2a1f00170fc538119bcb3f08d8cee66"
+    }, {
+      "name" : "16782-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "269b2e0ccc48b2cd",
+        "parentUid" : "1df9d6d3a60952cae9fd0b5d50bbaad8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179518809,
+          "stop" : 1683179519757,
+          "duration" : 948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "b36850894abb6ac2",
+        "parentUid" : "1df9d6d3a60952cae9fd0b5d50bbaad8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179517822,
+          "stop" : 1683179518791,
+          "duration" : 969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1df9d6d3a60952cae9fd0b5d50bbaad8"
+    }, {
+      "name" : "13700-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "47947288d192a36",
+        "parentUid" : "937e2eb488e534165ddef60453355956",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683169694755,
+          "stop" : 1683169695762,
+          "duration" : 1007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "70c7ec2e0caa4b54",
+        "parentUid" : "937e2eb488e534165ddef60453355956",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169695777,
+          "stop" : 1683169696774,
+          "duration" : 997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "937e2eb488e534165ddef60453355956"
+    }, {
+      "name" : "9462-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "2d362adb098b5122",
+        "parentUid" : "1aaa6a58ad4d4a6e9250524a2a321b73",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682753436497,
+          "stop" : 1682753437527,
+          "duration" : 1030
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1aaa6a58ad4d4a6e9250524a2a321b73"
+    }, {
+      "name" : "3387-MainThread",
+      "children" : [ {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "2d5975569c4ead17",
+        "parentUid" : "c9ce9a8f8e87787559b06f4c4c4784a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683267051034,
+          "stop" : 1683267058210,
+          "duration" : 7176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "5179c25d132ecee6",
+        "parentUid" : "c9ce9a8f8e87787559b06f4c4c4784a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683267050125,
+          "stop" : 1683267051031,
+          "duration" : 906
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "60346e9e2e19b3ff",
+        "parentUid" : "c9ce9a8f8e87787559b06f4c4c4784a3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683267049204,
+          "stop" : 1683267050106,
+          "duration" : 902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9ce9a8f8e87787559b06f4c4c4784a3"
+    }, {
+      "name" : "13256-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "1765dcd7a7d3eb1a",
+        "parentUid" : "9af049ffc199fc51df86e171f91a325a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168459607,
+          "stop" : 1683168460635,
+          "duration" : 1028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "cad685fc9955907",
+        "parentUid" : "9af049ffc199fc51df86e171f91a325a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683168460751,
+          "stop" : 1683168461758,
+          "duration" : 1007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9af049ffc199fc51df86e171f91a325a"
+    }, {
+      "name" : "2928-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "c0786e47a02c592b",
+        "parentUid" : "c827a6d49c0c28344d843cbd13012402",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265827371,
+          "stop" : 1683265828452,
+          "duration" : 1081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_giftbag_level_comparison_false",
+        "uid" : "1fe5ec6139e5686c",
+        "parentUid" : "c827a6d49c0c28344d843cbd13012402",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683265829482,
+          "stop" : 1683265829482,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "80e7ce160d5f2d80",
+        "parentUid" : "c827a6d49c0c28344d843cbd13012402",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683265828471,
+          "stop" : 1683265829478,
+          "duration" : 1007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c827a6d49c0c28344d843cbd13012402"
+    }, {
+      "name" : "9520-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "449bcb9fccabaaa3",
+        "parentUid" : "2b2e2ae219bca710301f6a2d7b91dfe6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682753505044,
+          "stop" : 1682753506134,
+          "duration" : 1090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b2e2ae219bca710301f6a2d7b91dfe6"
+    }, {
+      "name" : "13787-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "68467a8a2ed6fb5f",
+        "parentUid" : "f3c9d5eefe25dfdc29b3a955cf59caa2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169837830,
+          "stop" : 1683169838697,
+          "duration" : 867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "403fd9e872b8ee51",
+        "parentUid" : "f3c9d5eefe25dfdc29b3a955cf59caa2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683169836794,
+          "stop" : 1683169837687,
+          "duration" : 893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3c9d5eefe25dfdc29b3a955cf59caa2"
+    }, {
+      "name" : "13879-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "268383c2adf502a6",
+        "parentUid" : "8af1238a45ef9cc6172f6dbb2ecba19e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170082140,
+          "stop" : 1683170082946,
+          "duration" : 806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "f58d70184f99b953",
+        "parentUid" : "8af1238a45ef9cc6172f6dbb2ecba19e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170081165,
+          "stop" : 1683170082021,
+          "duration" : 856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8af1238a45ef9cc6172f6dbb2ecba19e"
+    }, {
+      "name" : "3818-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "104a29a8bb9365e2",
+        "parentUid" : "0d7d8f1e7768b983f3b82135cc09560a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268641911,
+          "stop" : 1683268642827,
+          "duration" : 916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_level_comparison_false",
+        "uid" : "bae2b720760bcfcc",
+        "parentUid" : "0d7d8f1e7768b983f3b82135cc09560a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268702927,
+          "stop" : 1683268763042,
+          "duration" : 60115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_source_score_gear_comparison_false",
+        "uid" : "8d421bcf2042f5a9",
+        "parentUid" : "0d7d8f1e7768b983f3b82135cc09560a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268642830,
+          "stop" : 1683268702924,
+          "duration" : 60094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "260a4df2a867c47d",
+        "parentUid" : "0d7d8f1e7768b983f3b82135cc09560a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268640904,
+          "stop" : 1683268641893,
+          "duration" : 989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d7d8f1e7768b983f3b82135cc09560a"
+    }, {
+      "name" : "7358-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "fa3731470a362a70",
+        "parentUid" : "101bf5d029bc4a3641177533f432048e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682678474698,
+          "stop" : 1682678475471,
+          "duration" : 773
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "101bf5d029bc4a3641177533f432048e"
+    }, {
+      "name" : "10467-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "f5ee77790043ae82",
+        "parentUid" : "6a31cafc03309ad12fd75d7d6d626aee",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682756202395,
+          "stop" : 1682756203338,
+          "duration" : 943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a31cafc03309ad12fd75d7d6d626aee"
+    }, {
+      "name" : "15425-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "4d272946fa7d6aea",
+        "parentUid" : "ee040920695f7be3f7823450f3d109d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172175318,
+          "stop" : 1683172176196,
+          "duration" : 878
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee040920695f7be3f7823450f3d109d3"
+    }, {
+      "name" : "14628-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "d05bb6de133e1c6",
+        "parentUid" : "0165faf8d0de19edbad189527b05f5e0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170894127,
+          "stop" : 1683170894981,
+          "duration" : 854
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0165faf8d0de19edbad189527b05f5e0"
+    }, {
+      "name" : "17805-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "ed65d11ec182d235",
+        "parentUid" : "15788eca1999fa819e3b70fe17bc1466",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683184651667,
+          "stop" : 1683184653155,
+          "duration" : 1488
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "e51d0fb769927ebb",
+        "parentUid" : "15788eca1999fa819e3b70fe17bc1466",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683184642268,
+          "stop" : 1683184651653,
+          "duration" : 9385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15788eca1999fa819e3b70fe17bc1466"
+    }, {
+      "name" : "1775-MainThread",
+      "children" : [ {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "c0c89d6e7ee0be47",
+        "parentUid" : "e2f720e4eeb130c69b34293516bba33b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254879600,
+          "stop" : 1683254919419,
+          "duration" : 39819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "96a3749726ace1f9",
+        "parentUid" : "e2f720e4eeb130c69b34293516bba33b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254878626,
+          "stop" : 1683254879596,
+          "duration" : 970
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "21386cd13a9fa08d",
+        "parentUid" : "e2f720e4eeb130c69b34293516bba33b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683254877404,
+          "stop" : 1683254878514,
+          "duration" : 1110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2f720e4eeb130c69b34293516bba33b"
+    }, {
+      "name" : "14301-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e06de50bc4d859f9",
+        "parentUid" : "ff0cc696f4f72fa316320fc1332578cc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170543834,
+          "stop" : 1683170544742,
+          "duration" : 908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ff0cc696f4f72fa316320fc1332578cc"
+    }, {
+      "name" : "13067-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "3fc5a1fe53be5afc",
+        "parentUid" : "501a35cdd76ada0d3ff35c2a9c2a4f4e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683168121664,
+          "stop" : 1683168122339,
+          "duration" : 675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "860e7e125b20dfe6",
+        "parentUid" : "501a35cdd76ada0d3ff35c2a9c2a4f4e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1683168120974,
+          "stop" : 1683168121541,
+          "duration" : 567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "501a35cdd76ada0d3ff35c2a9c2a4f4e"
+    }, {
+      "name" : "14578-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "99594035e641cdb7",
+        "parentUid" : "a0ac5deb937b04a5231d33edbe7e4e5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683170867251,
+          "stop" : 1683170868211,
+          "duration" : 960
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a0ac5deb937b04a5231d33edbe7e4e5d"
+    }, {
+      "name" : "16517-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "733612099ebbc049",
+        "parentUid" : "cd7c4dbd2af7d4f4cc2f7fc90d5cd542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179132553,
+          "stop" : 1683179133455,
+          "duration" : 902
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "3d5f7e73ab5f2d14",
+        "parentUid" : "cd7c4dbd2af7d4f4cc2f7fc90d5cd542",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683179131548,
+          "stop" : 1683179132534,
+          "duration" : 986
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd7c4dbd2af7d4f4cc2f7fc90d5cd542"
+    }, {
+      "name" : "10410-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "4c046f416bb8cdba",
+        "parentUid" : "dcfa506c814cbd69260d224e3e8cc168",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682756163073,
+          "stop" : 1682756164424,
+          "duration" : 1351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dcfa506c814cbd69260d224e3e8cc168"
+    }, {
+      "name" : "14509-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "45c2a0ca2586ab44",
+        "parentUid" : "86fa2cae9136214123d40f8234500550",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683170791306,
+          "stop" : 1683170792246,
+          "duration" : 940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "86fa2cae9136214123d40f8234500550"
+    }, {
+      "name" : "16252-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "7caed308a63171cf",
+        "parentUid" : "9e664b84cc08b0e92662c7577e45bf1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683178383176,
+          "stop" : 1683178384160,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e664b84cc08b0e92662c7577e45bf1d"
+    }, {
+      "name" : "10528-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "a0eaf9ef53c9ca09",
+        "parentUid" : "37b112cc4df3ca7fe3ec66ddb6b5b071",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682756280569,
+          "stop" : 1682756281674,
+          "duration" : 1105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37b112cc4df3ca7fe3ec66ddb6b5b071"
+    }, {
+      "name" : "2235-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "c2ff7923059d65f9",
+        "parentUid" : "5324905ca09ec1f940cb489948a85705",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683263998026,
+          "stop" : 1683263999235,
+          "duration" : 1209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "d75b33d7e9dc24f1",
+        "parentUid" : "5324905ca09ec1f940cb489948a85705",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683264000757,
+          "stop" : 1683264060405,
+          "duration" : 59648
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "56ab02a394619300",
+        "parentUid" : "5324905ca09ec1f940cb489948a85705",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683263999253,
+          "stop" : 1683264000751,
+          "duration" : 1498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5324905ca09ec1f940cb489948a85705"
+    }, {
+      "name" : "5743-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "26816e22acec5956",
+        "parentUid" : "3ac500e2459bd6be0b7d290f946d591f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682667598441,
+          "stop" : 1682667599054,
+          "duration" : 613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ac500e2459bd6be0b7d290f946d591f"
+    }, {
+      "name" : "11857-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "fea80f01be66a177",
+        "parentUid" : "ccc0968efbb2471d412456b4c2e06b0e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682766031085,
+          "stop" : 1682766032041,
+          "duration" : 956
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "90f67a1b57e00485",
+        "parentUid" : "ccc0968efbb2471d412456b4c2e06b0e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1682766032154,
+          "stop" : 1682766032973,
+          "duration" : 819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ccc0968efbb2471d412456b4c2e06b0e"
+    }, {
+      "name" : "14696-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "c67a8e1a2a1e00ee",
+        "parentUid" : "9dd0fe6bfcdbdf86aa4566192992092f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170978875,
+          "stop" : 1683170979820,
+          "duration" : 945
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9dd0fe6bfcdbdf86aa4566192992092f"
+    }, {
+      "name" : "14055-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e7e0669ed769bb6f",
+        "parentUid" : "435fbd7d80df992a2fa96b32303c0d44",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683170272693,
+          "stop" : 1683170273553,
+          "duration" : 860
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "435fbd7d80df992a2fa96b32303c0d44"
+    }, {
+      "name" : "17337-MainThread",
+      "children" : [ {
+        "name" : "test_common_data_source",
+        "uid" : "ae5a67ce1e01317a",
+        "parentUid" : "42aecb841c78c39783d5ec005b5995c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182169290,
+          "stop" : 1683182170216,
+          "duration" : 926
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_basic_data_comparison_false",
+        "uid" : "47db730d8172b5e4",
+        "parentUid" : "42aecb841c78c39783d5ec005b5995c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683182170233,
+          "stop" : 1683182172284,
+          "duration" : 2051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42aecb841c78c39783d5ec005b5995c8"
+    }, {
+      "name" : "1259-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "bd26ee85e83c70ac",
+        "parentUid" : "352e39d7eb3bb548fca7ebc48fd2a98a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683253826125,
+          "stop" : 1683253834597,
+          "duration" : 8472
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "2b17aa8b8cf9adf2",
+        "parentUid" : "352e39d7eb3bb548fca7ebc48fd2a98a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683253834615,
+          "stop" : 1683253835599,
+          "duration" : 984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "352e39d7eb3bb548fca7ebc48fd2a98a"
+    }, {
+      "name" : "15703-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "63c672fe604b2b53",
+        "parentUid" : "a84923cbe3e092f863f924d35cd87912",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172744055,
+          "stop" : 1683172744968,
+          "duration" : 913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a84923cbe3e092f863f924d35cd87912"
+    }, {
+      "name" : "15195-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "3fb6f4e9f961d0a3",
+        "parentUid" : "3ffccc71892edb3cef6d570ca82bc964",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683171971576,
+          "stop" : 1683171972507,
+          "duration" : 931
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3ffccc71892edb3cef6d570ca82bc964"
+    }, {
+      "name" : "1589-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "4d1c9244ed366792",
+        "parentUid" : "92dd5b4b664ef6a6e7fd5c661e08d6e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254311387,
+          "stop" : 1683254312398,
+          "duration" : 1011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "2f7951d7039f7d0c",
+        "parentUid" : "92dd5b4b664ef6a6e7fd5c661e08d6e8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683254312418,
+          "stop" : 1683254313229,
+          "duration" : 811
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92dd5b4b664ef6a6e7fd5c661e08d6e8"
+    }, {
+      "name" : "9599-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "3f25df6c389e145b",
+        "parentUid" : "7c38ee78e9e91dea98ba1736c39c260f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682753627172,
+          "stop" : 1682753628112,
+          "duration" : 940
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c38ee78e9e91dea98ba1736c39c260f"
+    }, {
+      "name" : "14252-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "5e736337a6bc1fb9",
+        "parentUid" : "8c768361286de22ea457fe69eb9e2a71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683170493124,
+          "stop" : 1683170494060,
+          "duration" : 936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c768361286de22ea457fe69eb9e2a71"
+    }, {
+      "name" : "8749-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "728b44ce1e00feab",
+        "parentUid" : "4e3e795dd4c30caf4391254e5231dff6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682751998893,
+          "stop" : 1682752007588,
+          "duration" : 8695
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e3e795dd4c30caf4391254e5231dff6"
+    }, {
+      "name" : "3673-MainThread",
+      "children" : [ {
+        "name" : "test_season_source_score_comparison_false",
+        "uid" : "d66cee31d446dca",
+        "parentUid" : "d5dd72c86e7b01f19af074a008bc8c53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268097870,
+          "stop" : 1683268155121,
+          "duration" : 57251
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_common_data_source",
+        "uid" : "b414ac210c7e5c90",
+        "parentUid" : "d5dd72c86e7b01f19af074a008bc8c53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268096647,
+          "stop" : 1683268097866,
+          "duration" : 1219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_season_info",
+        "uid" : "3d5de29aee4d6961",
+        "parentUid" : "d5dd72c86e7b01f19af074a008bc8c53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683268095361,
+          "stop" : 1683268096629,
+          "duration" : 1268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5dd72c86e7b01f19af074a008bc8c53"
+    }, {
+      "name" : "16053-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "d6002fa8c788ca47",
+        "parentUid" : "efcc35823e02a9a59ed22af0bf4b5a0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683177648609,
+          "stop" : 1683177649513,
+          "duration" : 904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "efcc35823e02a9a59ed22af0bf4b5a0b"
+    }, {
+      "name" : "8675-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "bfb9ecd315c8cecd",
+        "parentUid" : "a5f8e566470e3d59051432efb805e9cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682751780238,
+          "stop" : 1682751781059,
+          "duration" : 821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a5f8e566470e3d59051432efb805e9cf"
+    }, {
+      "name" : "13951-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "7ee0a4a3301a5e13",
+        "parentUid" : "cdd7cc621cc887ac86cccac6d43a30c9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683170172372,
+          "stop" : 1683170173314,
+          "duration" : 942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cdd7cc621cc887ac86cccac6d43a30c9"
+    }, {
+      "name" : "9967-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e707005aa86434e7",
+        "parentUid" : "8cfff0975b905f2c1158c911a1f294ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1682755010524,
+          "stop" : 1682755010524,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8cfff0975b905f2c1158c911a1f294ca"
+    }, {
+      "name" : "15629-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "27e5222c25660589",
+        "parentUid" : "2e1519f27863c2ab6182611a3e45ec8c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683172615485,
+          "stop" : 1683172616384,
+          "duration" : 899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e1519f27863c2ab6182611a3e45ec8c"
+    }, {
+      "name" : "17767-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "e5a9bcb1f11c8f80",
+        "parentUid" : "019d3b5ad0cb90587bcefffe35a69ee0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683184616839,
+          "stop" : 1683184617792,
+          "duration" : 953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "019d3b5ad0cb90587bcefffe35a69ee0"
+    }, {
+      "name" : "15766-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "3037a6d15be18ea7",
+        "parentUid" : "bfa63f6767f6b85d85f5603c5221c1a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1683172790332,
+          "stop" : 1683172791302,
+          "duration" : 970
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bfa63f6767f6b85d85f5603c5221c1a9"
+    }, {
+      "name" : "15474-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "dd5dcaedd3d19153",
+        "parentUid" : "e150fd36546008733bb811da28d75a7a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683172212841,
+          "stop" : 1683172213740,
+          "duration" : 899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e150fd36546008733bb811da28d75a7a"
+    }, {
+      "name" : "14759-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "c17aa9693031a919",
+        "parentUid" : "c59cf3bc71e1f5c7a2c7a7c1cb3c5a17",
+        "status" : "failed",
+        "time" : {
+          "start" : 1683171076151,
+          "stop" : 1683171077187,
+          "duration" : 1036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c59cf3bc71e1f5c7a2c7a7c1cb3c5a17"
+    }, {
+      "name" : "5603-MainThread",
+      "children" : [ {
+        "name" : "test_season_info",
+        "uid" : "cc1b5bc64c8d6d16",
+        "parentUid" : "e7877666690dbd472f4d08dd11004880",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682667066137,
+          "stop" : 1682667066608,
+          "duration" : 471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7877666690dbd472f4d08dd11004880"
+    } ],
+    "uid" : "673d7f10d7abe3af06f1c6a699edfcc7"
+  } ]
+}

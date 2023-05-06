@@ -1,0 +1,80 @@
+{
+  "uid" : "bae2b720760bcfcc",
+  "name" : "test_season_source_score_level_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_source_score_level_comparison_false",
+  "historyId" : "084463f056f44a82f08e388e11b66d69",
+  "time" : {
+    "start" : 1683268702927,
+    "stop" : 1683268763042,
+    "duration" : 60115
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea5322e932dd33b7",
+      "name" : "login",
+      "source" : "ea5322e932dd33b7.txt",
+      "type" : "text/plain",
+      "size" : 1877
+    }, {
+      "uid" : "851cbd1c4b38127e",
+      "name" : "[api-path]/web-api/data-report/season-funnel ",
+      "source" : "851cbd1c4b38127e.txt",
+      "type" : "text/plain",
+      "size" : 68884
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "3818-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bae2b720760bcfcc.json",
+  "parameterValues" : [ ]
+}

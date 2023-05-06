@@ -1,0 +1,133 @@
+{
+  "uid" : "2cd0dd0d42b18b5c",
+  "name" : "test_season_giftbag_level_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_giftbag_level_comparison_false",
+  "historyId" : "15b4a0697c82c2eca6e61ff31047ddef",
+  "time" : {
+    "start" : 1683271049970,
+    "stop" : 1683271062304,
+    "duration" : 12334
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7893672947dfd2a0",
+      "name" : "login",
+      "source" : "7893672947dfd2a0.txt",
+      "type" : "text/plain",
+      "size" : 1857
+    }, {
+      "uid" : "a83537490f6b2c13",
+      "name" : "[api-path]/web-api/data-report/season-giftbag-level ",
+      "source" : "a83537490f6b2c13.txt",
+      "type" : "text/plain",
+      "size" : 12296
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "4303-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bed8f04d908c2165",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683269374504,
+        "stop" : 1683269386023,
+        "duration" : 11519
+      }
+    }, {
+      "uid" : "3c7fe0072994ee92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683266266251,
+        "stop" : 1683266279141,
+        "duration" : 12890
+      }
+    }, {
+      "uid" : "706b0adafd28374",
+      "status" : "broken",
+      "statusDetails" : "TypeError: web_api_data_report_season_season_giftbag_level() missing 1 required positional argument: 'filtered_langs'",
+      "time" : {
+        "start" : 1683266243051,
+        "stop" : 1683266243051,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9493262c37f359ca",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: [error_code] Expected <110004> to be equal to <0>, but was not.",
+      "time" : {
+        "start" : 1683266025217,
+        "stop" : 1683266026175,
+        "duration" : 958
+      }
+    }, {
+      "uid" : "3ce5ac7d576457be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1683265856824,
+        "stop" : 1683265925439,
+        "duration" : 68615
+      }
+    }, {
+      "uid" : "1fe5ec6139e5686c",
+      "status" : "broken",
+      "statusDetails" : "TypeError: 'NoneType' object is not iterable",
+      "time" : {
+        "start" : 1683265829482,
+        "stop" : 1683265829482,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2cd0dd0d42b18b5c.json",
+  "parameterValues" : [ ]
+}

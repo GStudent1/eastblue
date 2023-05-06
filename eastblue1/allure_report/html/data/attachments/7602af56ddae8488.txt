@@ -1,0 +1,28 @@
+curl -X POST -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Connection: keep-alive' -H 'Content-Length: 57' -H 'Content-Type: application/x-www-form-urlencoded' -H 'User-Agent: python-requests/2.28.0' -H 'cookie: eastblue_master_session=SODGB9nc6hccUlwhWv08HiTxq6W9JnsidNVeJz8a; expires=Sun, 06 Aug 2023 10:41:15 GMT; Max-Age=8640000; path=/; httponly' -d 'game_id=97&attribute_langs=%5B%22all%22%5D&sys_lang=zh-CN' --compressed http://test-eastblue.xinyoudi.com/web-api/data-report/season
+
+< POST /web-api/data-report/season HTTP/1.1
+< Host: test-eastblue.xinyoudi.com
+< User-Agent: python-requests/2.28.0
+< Accept-Encoding: gzip, deflate
+< Accept: */*
+< Connection: keep-alive
+< cookie: eastblue_master_session=SODGB9nc6hccUlwhWv08HiTxq6W9JnsidNVeJz8a; expires=Sun, 06 Aug 2023 10:41:15 GMT; Max-Age=8640000; path=/; httponly
+< Content-Length: 57
+< Content-Type: application/x-www-form-urlencoded
+< 
+< game_id=97&attribute_langs=%5B%22all%22%5D&sys_lang=zh-CN
+
+> HTTP/1.1 200 OK
+> Server: nginx/1.19.10
+> Date: Fri, 28 Apr 2023 10:41:15 GMT
+> Content-Type: application/json
+> Transfer-Encoding: chunked
+> Connection: keep-alive
+> X-Powered-By: PHP/8.1.16
+> Cache-Control: private, must-revalidate
+> pragma: no-cache
+> expires: -1
+> Set-Cookie: eastblue_master_session=SODGB9nc6hccUlwhWv08HiTxq6W9JnsidNVeJz8a; expires=Sun, 06 Aug 2023 10:41:15 GMT; Max-Age=8640000; path=/; httponly
+> Content-Encoding: gzip
+> 
+{"error_code":"110001","error_msg":"(TID:ce982d)请先登录","data":[]}

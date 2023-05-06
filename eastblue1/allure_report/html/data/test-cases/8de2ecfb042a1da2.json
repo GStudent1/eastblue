@@ -1,0 +1,80 @@
+{
+  "uid" : "8de2ecfb042a1da2",
+  "name" : "test_season_source_score_comparison_false",
+  "fullName" : "test_case.test_season_monitoring.test_season.TestSeason#test_season_source_score_comparison_false",
+  "historyId" : "53b6bf92dfb6c84fc0dff470e6938076",
+  "time" : {
+    "start" : 1683266855716,
+    "stop" : 1683266862923,
+    "duration" : 7207
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c63d46acc82b418",
+      "name" : "login",
+      "source" : "5c63d46acc82b418.txt",
+      "type" : "text/plain",
+      "size" : 1849
+    }, {
+      "uid" : "9d3eb53cbc94bd7e",
+      "name" : "[api-path]/web-api/data-report/season-source-score ",
+      "source" : "9d3eb53cbc94bd7e.txt",
+      "type" : "text/plain",
+      "size" : 86642
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.test_season_monitoring"
+  }, {
+    "name" : "suite",
+    "value" : "test_season"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSeason"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "3305-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_season_monitoring.test_season"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8de2ecfb042a1da2.json",
+  "parameterValues" : [ ]
+}
